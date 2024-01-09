@@ -20,4 +20,4 @@ while True:
     for i in range(10):
         cp.pixels.fill((0, 0, 0))  # Turn off all LEDs
         cp.pixels[i] = colors[i]  # Turn on the current LED
-        time.sleep(0.5)  # Wait for half a second
+        time.sleep(0.25)  # Wait for quarter second
