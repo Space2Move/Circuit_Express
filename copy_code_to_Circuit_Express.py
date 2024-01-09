@@ -1,4 +1,4 @@
-# This simple script copies the code.py file from this repo to the root of
+# Script that copies the code.py file from this repo to the root of
 # the E drive.  It makes it possible to have the Python code inside of GitHub
 # but easily deploy the actual program to the Circuit Express.
 
